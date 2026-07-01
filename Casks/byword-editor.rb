@@ -1,8 +1,8 @@
 cask "byword-editor" do
-  version "1.0.0"
-  sha256 "8bc7e708bdb87eafce7db32723977c6e600109edc8666a5ffbd04d38fd91a5c8"
+  version "1.0.1"
+  sha256 "d7ab69d92ea0abb98ea34592283bc8e0009ec82e54f8633b3d59244d7d66f0ad"
 
-  url "https://github.com/laboritdev/byword-editor/releases/download/v1.0.0/BywordEditor-1.0.0-macos-arm64.zip"
+  url "https://github.com/laboritdev/byword-editor/releases/download/v1.0.1/BywordEditor-1.0.1-macos-arm64.zip"
   name "BywordEditor"
   desc "Minimalist Markdown editor for macOS"
   homepage "https://github.com/laboritdev/byword-editor"
